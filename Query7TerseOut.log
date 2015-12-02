@@ -1,0 +1,41 @@
+-- Loading resources from sqliterc
+SQLite version 3.6.20
+Enter ".help" for instructions
+Enter SQL statements terminated with a ";"
+[?1034hsqlite> .echo on
+sqlite> .output /dev/null
+.output /dev/null
+sqlite> .read Query7.sql
+.read Query7.sql
+CPU Time: user 0.000000 sys 0.001000
+CPU Time: user 0.001000 sys 0.000000
+CPU Time: user 0.001000 sys 0.000000
+CPU Time: user 0.001000 sys 0.000000
+CPU Time: user 0.000000 sys 0.001000
+CPU Time: user 0.000000 sys 0.000000
+CPU Time: user 0.000999 sys 0.000000
+CPU Time: user 0.005000 sys 0.001000
+CPU Time: user 0.007998 sys 0.000000
+CPU Time: user 0.006000 sys 0.001000
+CPU Time: user 0.005999 sys 0.000999
+CPU Time: user 0.000000 sys 0.000000
+CPU Time: user 0.000999 sys 0.000000
+CPU Time: user 0.034995 sys 0.008999
+CPU Time: user 0.034995 sys 0.004999
+CPU Time: user 0.034995 sys 0.004000
+CPU Time: user 0.026995 sys 0.000000
+CPU Time: user 0.000000 sys 0.000000
+CPU Time: user 0.000000 sys 0.003999
+CPU Time: user 0.149978 sys 0.013998
+CPU Time: user 0.144978 sys 0.017997
+CPU Time: user 0.167974 sys 0.024996
+CPU Time: user 0.174973 sys 0.020997
+CPU Time: user 0.000000 sys 0.000000
+CPU Time: user 0.002000 sys 0.007999
+CPU Time: user 0.627905 sys 0.041994
+CPU Time: user 0.616906 sys 0.069989
+CPU Time: user 0.472928 sys 0.044993
+CPU Time: user 0.480927 sys 0.036995
+CPU Time: user 0.000000 sys 0.000000
+sqlite> .quit
+.quit
